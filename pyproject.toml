@@ -1,6 +1,6 @@
 [project]
 name = "grok"
-version = "0.1.1"
+version = "0.1.2"
 description = "Grok Dify-parity tools through Ace Data Cloud for ComfyUI"
 license = { file = "LICENSE" }
 requires-python = ">=3.10"
@@ -14,5 +14,5 @@ Documentation = "https://github.com/AceDataCloud/GrokComfyUI#readme"
 
 [tool.comfy]
 PublisherId = "acedatacloud"
-DisplayName = "Grok by Ace Data Cloud"
+DisplayName = "Grok"
 Icon = "https://raw.githubusercontent.com/AceDataCloud/GrokComfyUI/main/assets/logo-400.png"
